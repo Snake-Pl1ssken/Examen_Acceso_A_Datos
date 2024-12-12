@@ -1,0 +1,60 @@
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.exe
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.deps.json
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.runtimeconfig.json
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.dll
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.pdb
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen_MarkupCompile.cache
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen_MarkupCompile.lref
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.g.resources
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.AssemblyInfoInputs.cache
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.AssemblyInfo.cs
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.csproj.CoreCompileInputs.cache
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.dll
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\refint\Examen.dll
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.pdb
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.genruntimeconfig.cache
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ExamenGestorBinario\obj\Debug\net8.0-windows\ref\Examen.dll
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.exe
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.deps.json
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.runtimeconfig.json
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.dll
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.pdb
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen_MarkupCompile.cache
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen_MarkupCompile.lref
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.g.resources
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.dll
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\refint\Examen.dll
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.pdb
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica\ExamenGestorBinario\obj\Debug\net8.0-windows\ref\Examen.dll
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.exe
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.deps.json
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.runtimeconfig.json
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.dll
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\bin\Debug\net8.0-windows\Examen.pdb
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen_MarkupCompile.cache
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen_MarkupCompile.lref
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.g.resources
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.dll
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\refint\Examen.dll
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.pdb
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\Examen.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\UF1-EX1-Parte práctica -Test\ExamenGestorBinario\obj\Debug\net8.0-windows\ref\Examen.dll

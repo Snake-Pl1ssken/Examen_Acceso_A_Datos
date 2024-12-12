@@ -1,0 +1,100 @@
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\bin\Debug\net8.0-windows\ActividadSeguimiento.exe
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\bin\Debug\net8.0-windows\ActividadSeguimiento.deps.json
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\bin\Debug\net8.0-windows\ActividadSeguimiento.runtimeconfig.json
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\bin\Debug\net8.0-windows\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\bin\Debug\net8.0-windows\ActividadSeguimiento.pdb
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ActividadSeguimiento_MarkupCompile.cache
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ActividadSeguimiento_MarkupCompile.lref
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ActividadSeguimiento.g.resources
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ActividadSeguimiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ActividadSeguimiento.AssemblyInfoInputs.cache
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ActividadSeguimiento.AssemblyInfo.cs
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ActividadSeguimiento.csproj.CoreCompileInputs.cache
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\refint\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ActividadSeguimiento.pdb
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ActividadSeguimiento.genruntimeconfig.cache
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimiento\obj\Debug\net8.0-windows\ref\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ActividadSeguimiento_MarkupCompile.cache
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ActividadSeguimiento_MarkupCompile.lref
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\refint\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ActividadSeguimiento.pdb
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\bin\Debug\net8.0-windows\ActividadSeguimiento.exe
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\bin\Debug\net8.0-windows\ActividadSeguimiento.deps.json
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\bin\Debug\net8.0-windows\ActividadSeguimiento.runtimeconfig.json
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\bin\Debug\net8.0-windows\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\bin\Debug\net8.0-windows\ActividadSeguimiento.pdb
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ActividadSeguimiento.g.resources
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ActividadSeguimiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ActividadSeguimiento.AssemblyInfoInputs.cache
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ActividadSeguimiento.AssemblyInfo.cs
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ActividadSeguimiento.csproj.CoreCompileInputs.cache
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ActividadSeguimiento.genruntimeconfig.cache
+C:\Users\IFP\Downloads\ActividadSeguimiento\ActividadSeguimientoHashSet\obj\Debug\net8.0-windows\ref\ActividadSeguimiento.dll
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\App.g.cs
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ActividadSeguimiento_MarkupCompile.cache
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ActividadSeguimiento.dll
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\refint\ActividadSeguimiento.dll
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ActividadSeguimiento.pdb
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ActividadSeguimiento_MarkupCompile.lref
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\bin\Debug\net8.0-windows\ActividadSeguimiento.exe
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\bin\Debug\net8.0-windows\ActividadSeguimiento.deps.json
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\bin\Debug\net8.0-windows\ActividadSeguimiento.runtimeconfig.json
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\bin\Debug\net8.0-windows\ActividadSeguimiento.dll
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\bin\Debug\net8.0-windows\ActividadSeguimiento.pdb
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\MainWindow.baml
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ActividadSeguimiento.g.resources
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ActividadSeguimiento.GeneratedMSBuildEditorConfig.editorconfig
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ActividadSeguimiento.AssemblyInfoInputs.cache
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ActividadSeguimiento.AssemblyInfo.cs
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ActividadSeguimiento.csproj.CoreCompileInputs.cache
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ActividadSeguimiento.genruntimeconfig.cache
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestor\obj\Debug\net8.0-windows\ref\ActividadSeguimiento.dll
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\App.g.cs
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento_MarkupCompile.cache
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento_MarkupCompile.lref
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.dll
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\refint\ActividadSeguimiento.dll
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.pdb
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\bin\Debug\net8.0-windows\ActividadSeguimiento.exe
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\bin\Debug\net8.0-windows\ActividadSeguimiento.deps.json
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\bin\Debug\net8.0-windows\ActividadSeguimiento.runtimeconfig.json
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\bin\Debug\net8.0-windows\ActividadSeguimiento.dll
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\bin\Debug\net8.0-windows\ActividadSeguimiento.pdb
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\MainWindow.baml
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.g.resources
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.GeneratedMSBuildEditorConfig.editorconfig
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.AssemblyInfoInputs.cache
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.AssemblyInfo.cs
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.csproj.CoreCompileInputs.cache
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.genruntimeconfig.cache
+H:\VDJ\M06\Workspace\ActividadSeguimientoGestor\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ref\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento_MarkupCompile.cache
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento_MarkupCompile.lref
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\refint\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.pdb
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\bin\Debug\net8.0-windows\ActividadSeguimiento.exe
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\bin\Debug\net8.0-windows\ActividadSeguimiento.deps.json
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\bin\Debug\net8.0-windows\ActividadSeguimiento.runtimeconfig.json
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\bin\Debug\net8.0-windows\ActividadSeguimiento.dll
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\bin\Debug\net8.0-windows\ActividadSeguimiento.pdb
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.g.resources
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.AssemblyInfoInputs.cache
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.AssemblyInfo.cs
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.csproj.CoreCompileInputs.cache
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ActividadSeguimiento.genruntimeconfig.cache
+C:\Users\IFP\Downloads\ActividadSeguimientoGestores (1)\ActividadSeguimientoGestores\ActividadSeguimientoGestorTexto\obj\Debug\net8.0-windows\ref\ActividadSeguimiento.dll
